@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Phil26
-- 👀 I’m interested in software and automotive development and testing areas.
-- 🌱 I’m currently learning OOP using Java programming language, manual & automated testing, artificial intelligence & hardware basics of MIPS. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Phil26.
+- 👀 I’m interested in software and automotive development and QA areas.
+- 🌱 I’m currently learning OOP using Java programming language, manual & automated testing & specific tools, artificial intelligence, game development using Unity, basics hardware of MIPS and other interesting topics related to these. 
 
 <!---
 Phil26/Phil26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
